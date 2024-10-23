@@ -2,6 +2,8 @@
 <h1 align="center">Hola, soy Raquel</a>⚡</h1>
 </div>
 
+![image](https://github.com/3592917/3592917/blob/main/portada.png?raw=true)
+
 ## ⭐Sobre mí
 
 🔸Estudié filología inglesa y estuve trabajando casi seis años en logística, en 2022 lo dejé todo para reencontrarme con el mundillo tech (lo que siempre había querido en realidad) y me uní a un bootcamp de Java. Desde entonces trabajo como desarrolladora fullstack y también asisto al equipo realizando tareas de análisis funcional junto con el product owner. Me estrené como speaker en T3chfest Madrid 2024 y ayudo a otras mujeres en su transición a la tecnología.
