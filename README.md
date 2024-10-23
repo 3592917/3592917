@@ -8,6 +8,11 @@
 
 🔸Estudié filología inglesa y estuve trabajando casi seis años en logística, en 2022 lo dejé todo para reencontrarme con el mundillo tech (lo que siempre había querido en realidad) y me uní a un bootcamp de Java. Desde entonces trabajo como desarrolladora fullstack y también asisto al equipo realizando tareas de análisis funcional junto con el product owner. Me estrené como speaker en T3chfest Madrid 2024 y ayudo a otras mujeres en su transición a la tecnología.
 
+<div align="center">
+<img src="https://github.com/3592917/3592917/blob/main/scaler-create-impact.gif?raw=true" width="150" />
+</div>
+
+
 🔸Actualmente estudiando el ciclo superior de Desarrollo de aplicaciones multiplataforma.
 
 ⏩Enlace a mi <a href="https://phrygian-poison-fef.notion.site/1-DAM-121d0e44b0a680d4b109d68ba3df8206">Notion personal</a> para organizar el curso⏪
