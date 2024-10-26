@@ -13,7 +13,14 @@
 </div>
 
 
-🔸Actualmente estudiando el ciclo superior de Desarrollo de aplicaciones multiplataforma.
+🔸Actualmente estudiando el ciclo superior de Desarrollo de aplicaciones multiplataforma, matriculada en las siguientes asignaturas:
+- 💾 Digitalización
+- 💿 Bases de datos
+- 🧵 Entornos de desarrollo
+- 💼 Itinerario de la empleabilidad
+- 💻 Programación
+- 👅 Lenguaje de marcas
+- 🔧 Sistemas informáticos
 
 ⏩Enlace a mi <a href="https://phrygian-poison-fef.notion.site/1-DAM-121d0e44b0a680d4b109d68ba3df8206">Notion personal</a> para organizar el curso⏪
 
