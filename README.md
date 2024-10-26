@@ -48,4 +48,6 @@ Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí</a>
 ![SonarQube Badge](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge)
 
 ## 📎GitHub Top Languages
+Disponible en cuanto suba un proyecto 🔜👀
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3592917&layout=donut)](https://github.com/3592917/github-readme-stats)
