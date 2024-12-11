@@ -56,8 +56,7 @@ Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí</a>
 
 
 ## 📎GitHub Top Languages
-Disponible en cuanto suba un proyecto 🔜👀
 
-🚀Próximamente, esta sección destacará los lenguajes principales en los que están escritos mis proyectos. En los próximos meses en los que desarrollará el curso, nos centraremos en proyectos escritos principalmente en Java, HTML, CSS, Markdown y utilizaremos diversas herramientas de desarrollo como IntelliJ, Visual Studio, Git, etc. Aunque en mi perfil profesional ya tengo algunos proyectos en distintos lenguajes y frameworks, durante el curso escolar trabajaremos estas tecnologías.
+🚀Esta sección destaca los lenguajes principales en los que están escritos mis proyectos. En los próximos meses en los que desarrollará el curso, nos centraremos en proyectos escritos principalmente en Java, HTML, CSS, Markdown y utilizaremos diversas herramientas de desarrollo como IntelliJ, Visual Studio, Git, etc. Aunque en mi perfil profesional ya tengo algunos proyectos en distintos lenguajes y frameworks, durante el curso escolar trabajaremos estas tecnologías.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3592917&layout=donut)](https://github.com/3592917/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3592917&theme=tokyonight)
