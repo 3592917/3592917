@@ -2,33 +2,33 @@
 <h1 align="center">Hola, soy Raquel</a>⚡</h1>
 </div>
 
-![image](https://github.com/3592917/3592917/blob/main/portada.png?raw=true)
+![banner](https://github.com/user-attachments/assets/5f7a98bd-c3e7-48b9-9162-c1cbf83ff01c)
 
 ## ⭐Sobre mí
 
-- 👩🏻‍💻Fullstack Dev
-- 👩‍💼Proxy Product Owner
-- 💜Mentora <a href="https://step4ward.es/team/raquel/">Step4ward</a>
+- 👩🏻‍💻Backend Dev
+- 💜<a href="https://step4ward.es/team/raquel/">Mentora Step4ward</a>
 - 💬English philologist
 - 🎙️Soprano
 
-🔸Estudié filología inglesa y estuve trabajando casi seis años en logística, en 2022 lo dejé todo para reencontrarme con el mundillo tech (lo que siempre había querido en realidad) y me uní a un bootcamp de Java. Desde entonces trabajo como desarrolladora fullstack y también asisto al equipo realizando tareas de análisis funcional junto con el product owner. Me estrené como speaker en T3chfest Madrid 2024 y ayudo a otras mujeres en su transición a la tecnología.
+🔸Estudié filología inglesa y estuve trabajando casi seis años en logística, en 2022 lo dejé todo para reencontrarme con el mundillo tech (lo que siempre había querido en realidad) y me uní a un bootcamp de Java. Ahí empezó mi andadura como desarrolladora fullstack y proxy product owner, aunque actualmente he cambiado al perfil de 100% back. Además, fui speaker en T3chfest Madrid 2024 y ayudo a otras mujeres a través de mentorías con [Step4ward](https://step4ward.es/).
 
 <div align="center">
 <img src="https://github.com/3592917/3592917/blob/main/scaler-create-impact.gif?raw=true" width="150" />
 </div>
 
-🔸Actualmente estudiando el ciclo superior de Desarrollo de aplicaciones multiplataforma, matriculada en las siguientes asignaturas:
-- 💾 Digitalización
-- 💿 Bases de datos
-- 🧵 Entornos de desarrollo
-- 💼 Itinerario de la empleabilidad
-- 💻 Programación
-- 👅 Lenguaje de marcas
-- 🔧 Sistemas informáticos
+🔸Actualmente estudiando el 2º curso del ciclo superior de Desarrollo de aplicaciones multiplataforma, matriculada en las siguientes asignaturas:
+- 🎭 Desarrollo de interfaces
+- 💿 Acceso a datos
+- 📲 Programación multimedia y dispositivos móviles
+- 💼 Itinerario personal para la empleabilidad II
+- 💻 Programación de servicios y procesos
+- 🌱 Sostenibilidad
+- 🛠️ Python
+- 👩‍💻 Gestión empresarial
 
 ## 🌟 Objetivos y filosofía
-* Seguir creciendo como desarrolladora fullstack
+* Seguir creciendo como desarrolladora y especializarme en el ecosistema backend
 * Evolucionar a largo plazo hacia un perfil más avanzado y de gestión
 * Trabajar y conocer distintos stacks
 * Explorar más sobre inteligencia artificial aplicada a productos
@@ -38,7 +38,7 @@
 ## 📲Contacto 
 Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí</a>
 
-⏩Enlace a mi <a href="https://phrygian-poison-fef.notion.site/1-DAM-121d0e44b0a680d4b109d68ba3df8206">Notion personal</a> para organizar el curso⏪
+⏩Enlace a mi <a href="https://www.notion.so/DAM-121d0e44b0a680d4b109d68ba3df8206">Notion personal</a> para organizar el curso⏪
 
 
 ## 🤖CV
